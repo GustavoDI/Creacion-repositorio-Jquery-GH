@@ -1,0 +1,24 @@
+#img-apis {
+    width: 200px;
+    height: 300px;
+    margin-left: 8px;
+    display: inline;
+    float: left;
+}
+
+/* Barra para buscar  */
+#formulario{
+    background-color:lightblue ;
+}
+
+#action-movies{
+    margin-left: 5px;
+    border: 2px solid lightcoral;
+    width: 220px;
+    
+    
+}
+ #bloques{
+     
+     border: 20px solid blue;
+ }
